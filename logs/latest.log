@@ -1,0 +1,22 @@
+[23:17:33] Main: Configuration loaded
+[23:17:33] Main: Help command added
+[23:17:33] Main: Commands loaded
+[23:17:33] handlers.InputHandler$Key: Binding 1 added for key select
+[23:17:33] handlers.InputHandler$Key: Binding 2 added for key option
+[23:17:33] Main: Bindings Added
+[23:17:33] window.Window: frame> Created
+[23:17:33] window.Window: frame> Default Close Operation set
+[23:17:33] window.Window: frame> Layout set
+[23:17:33] window.Window: frame> Bordering Center
+[23:17:33] window.Window: frame> Set extended layout
+[23:17:33] window.Window: frame> Set borderless
+[23:17:33] window.Window: frame> Resizable set to false
+[23:17:33] window.Window: frame> Set to invisible
+[23:17:33] handlers.InputHandler: Listening
+[23:17:33] ge.gfx.Screen: width> Set to 1920
+[23:17:33] ge.gfx.Screen: height> Set to 1080
+[23:17:33] window.Window: Screen initialized
+[23:17:33] window.Window: Exit Listener initialized
+[23:17:33] gfx.Screen: Set offset
+[23:17:33] window.Window: Run
+[23:17:33] window.Window: java.lang.NullPointerException

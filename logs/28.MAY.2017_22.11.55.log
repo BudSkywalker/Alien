@@ -1,0 +1,24 @@
+[22:12:4] Main: Configuration loaded
+[22:12:4] Main: Help command added
+[22:12:4] Main: Commands loaded
+[22:12:4] handlers.InputHandler$Key: Binding 1 added for key select
+[22:12:4] handlers.InputHandler$Key: Binding 2 added for key option
+[22:12:4] Main: Bindings Added
+[22:12:4] window.Window: frame> Created
+[22:12:4] window.Window: frame> Default Close Operation set
+[22:12:4] window.Window: frame> Layout set
+[22:12:4] window.Window: frame> Bordering Center
+[22:12:4] window.Window: frame> Set extended layout
+[22:12:4] window.Window: frame> Set borderless
+[22:12:4] window.Window: frame> Resizable set to false
+[22:12:4] window.Window: frame> Set to invisible
+[22:12:4] handlers.InputHandler: Listening
+[22:12:4] ge.gfx.Screen: width> Set to 1920
+[22:12:4] ge.gfx.Screen: height> Set to 1080
+[22:12:4] window.Window: Screen initialized
+[22:12:4] window.Window: Exit Listener initialized
+[22:12:4] gfx.Screen: Set offset
+[22:12:4] window.Window: Run
+[22:12:4] window.Window: java.lang.NullPointerException
+[22:11:55] handlers.EventHandler: java.io.FileNotFoundException: resources\levels\SAVE.resources (The system cannot find the path specified)
+[22:11:55] handlers.EventHandler: Goodbye!

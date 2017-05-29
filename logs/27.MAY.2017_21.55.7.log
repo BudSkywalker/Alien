@@ -1,0 +1,48 @@
+[21:55:32] Main: Configuration loaded
+[21:55:32] Main: Configuration loaded
+[21:55:32] Main: Help command added
+[21:55:32] Main: Help command added
+[21:55:32] Main: Commands loaded
+[21:55:32] Main: Commands loaded
+[21:55:32] handlers.InputHandler$Key: Binding 1 added for key select
+[21:55:32] handlers.InputHandler$Key: Binding 1 added for key select
+[21:55:32] handlers.InputHandler$Key: Binding 2 added for key option
+[21:55:32] handlers.InputHandler$Key: Binding 2 added for key option
+[21:55:32] Main: Bindings Added
+[21:55:32] Main: Bindings Added
+[21:55:32] window.Window: frame> Created
+[21:55:32] window.Window: frame> Created
+[21:55:32] window.Window: frame> Default Close Operation set
+[21:55:32] window.Window: frame> Default Close Operation set
+[21:55:32] window.Window: frame> Layout set
+[21:55:32] window.Window: frame> Layout set
+[21:55:32] window.Window: frame> Bordering Center
+[21:55:32] window.Window: frame> Bordering Center
+[21:55:32] window.Window: frame> Set extended layout
+[21:55:32] window.Window: frame> Set extended layout
+[21:55:32] window.Window: frame> Set borderless
+[21:55:32] window.Window: frame> Set borderless
+[21:55:32] window.Window: frame> Resizable set to false
+[21:55:32] window.Window: frame> Resizable set to false
+[21:55:32] window.Window: frame> Set to invisible
+[21:55:32] window.Window: frame> Set to invisible
+[21:55:32] handlers.InputHandler: Listening
+[21:55:32] ge.gfx.Screen: width> Set to 1920
+[21:55:32] ge.gfx.Screen: height> Set to 1080
+[21:55:32] window.Window: Screen initialized
+[21:55:32] handlers.InputHandler: Listening
+[21:55:32] window.Window: Exit Listener initialized
+[21:55:32] ge.gfx.Screen: width> Set to 1920
+[21:55:32] gfx.Screen: Set offset
+[21:55:32] ge.gfx.Screen: height> Set to 1080
+[21:55:32] window.Window: Run
+[21:55:32] window.Window: Screen initialized
+[21:55:32] window.Window: Exit Listener initialized
+[21:55:32] gfx.Screen: Set offset
+[21:55:32] window.Window: Run
+[21:55:32] window.Window: java.lang.NullPointerException
+[21:55:32] window.Window: java.lang.NullPointerException
+[21:55:32] handlers.EventHandler: java.io.FileNotFoundException: resources\levels\SAVE.resources (The system cannot find the path specified)
+[21:55:32] handlers.EventHandler: Goodbye!
+[21:55:7] handlers.EventHandler: java.io.FileNotFoundException: resources\levels\SAVE.resources (The system cannot find the path specified)
+[21:55:7] handlers.EventHandler: Goodbye!
